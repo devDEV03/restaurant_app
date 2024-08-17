@@ -17,6 +17,7 @@ const Menu = () => {
                                 <h3>{element.title}</h3>
                                 <button>{element.category}</button>
                         </div>
+                    
                     ))
                 }   
             </div>
