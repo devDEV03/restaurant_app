@@ -7,9 +7,9 @@ const Team = () => {
         <div className="heading_section">
           <h1 className="heading">OUR TEAM</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-            fugit dicta, ipsum impedit quam laboriosam quas doloremque quia
-            perferendis laborum.
+          At GOFOOD, our team is the heart of everything we do. From our skilled chefs in the kitchen to our friendly staff on the floor, everyone is dedicated to making your dining experience exceptional. Our chefs bring creativity and passion to every dish, using their expertise to craft flavors that delight the senses. Meanwhile, our welcoming staff ensures that you feel at home from the moment you walk through our doors. Together, we strive to provide not just a meal, but a memorable experience for every guest.
+
+
           </p>
         </div>
         <div className="team_container">
