@@ -30,5 +30,5 @@
       "last 1 safari version"
     ]
   },
-  const_url: "https://restaurant-app-backend-rlcp.onrender.com"
+"proxy": "https://localhost:5000"
 }
